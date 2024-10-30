@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data analysis**
 
-- 👯 I’m looking to collaborate on **any kind of software porject**
+- 👯 I’m looking to collaborate on **any kind of software project**
 
 - 💬 Ask me about **anything based on tech projects**
 
