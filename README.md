@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Artifical Intellgent**
 
-- 💬 Ask me about **Ui/Ux And React**
+- 💬 Ask me about **Ui/Ux**
 
 - 📫 How to reach me **https://t.me/davelvmak**
 
